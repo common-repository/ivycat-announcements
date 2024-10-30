@@ -1,0 +1,13 @@
+#Date-TimeInfo-meta .inside {
+        width: 100%;
+    }
+    #Date-TimeInfo-meta label {
+        width: 100px;
+        margin-top: 5px;
+    }
+    #Date-TimeInfo-meta input {
+            margin-top: 5px;
+        }
+        #Date-TimeInfo-meta input[type="text"] {
+            margin-right: 40px;  
+        }
